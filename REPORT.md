@@ -23,7 +23,7 @@
 # Визуализировал результаты
 ```
 
-!(https://github.com/jon/coolproject/raw/master/image/image.png)
+![график](https://github.com/s1lenter/PracticeHomework4/raw/master/plots/1.1.png)
 
 ## Выводы по графикам:
 ### Для MNIST CNN показывает лучший баланс: Точность: 99%/98.5% (train/test). Время: 2x быстрее ResCNN. Параметры: в 5x меньше FCN
